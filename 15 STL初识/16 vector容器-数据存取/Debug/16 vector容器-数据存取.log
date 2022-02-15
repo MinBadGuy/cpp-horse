@@ -1,0 +1,4 @@
+﻿  16 vector数据存取.cpp
+F:\C++ 黑马程序员\15 STL初识\16 vector容器-数据存取\16 vector数据存取.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++ 黑马程序员\15 STL初识\16 vector容器-数据存取\16 vector数据存取.cpp(22,20): warning C4018: “<”: 有符号/无符号不匹配
+  16 vector容器-数据存取.vcxproj -> F:\C++ 黑马程序员\15 STL初识\Debug\16 vector容器-数据存取.exe

@@ -1,0 +1,4 @@
+﻿  23 deque数据存取.cpp
+F:\C++ 黑马程序员\15 STL初识\23 deque容器-数据存取\23 deque数据存取.cpp(16,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++ 黑马程序员\15 STL初识\23 deque容器-数据存取\23 deque数据存取.cpp(23,20): warning C4018: “<”: 有符号/无符号不匹配
+  23 deque容器-数据存取.vcxproj -> F:\C++ 黑马程序员\15 STL初识\Debug\23 deque容器-数据存取.exe

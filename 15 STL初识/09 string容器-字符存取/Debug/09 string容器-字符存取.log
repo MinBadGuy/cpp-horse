@@ -1,0 +1,4 @@
+﻿  09 string字符存取.cpp
+F:\C++ 黑马程序员\15 STL初识\09 string容器-字符存取\09 string字符存取.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++ 黑马程序员\15 STL初识\09 string容器-字符存取\09 string字符存取.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+  09 string容器-字符存取.vcxproj -> F:\C++ 黑马程序员\15 STL初识\Debug\09 string容器-字符存取.exe

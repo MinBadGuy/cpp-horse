@@ -1,0 +1,3 @@
+﻿  20 const修饰成员函数.cpp
+F:\C++ 黑马程序员\12 类和对象\20 const修饰成员函数\20 const修饰成员函数.cpp(31,16): warning C4269: “p”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  20 const修饰成员函数.vcxproj -> F:\C++ 黑马程序员\12 类和对象\Debug\20 const修饰成员函数.exe
